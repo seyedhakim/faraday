@@ -3,7 +3,7 @@
 Faraday is an HTTP client library abstraction layer that provides a common interface over many
 adapters (such as Net::HTTP) and embraces the concept of Rack middleware when processing the request/response cycle.
 
-## چرا فارادی استفاده میکنیم؟
+## Why use Faraday
 
 Faraday gives you the power of Rack middleware for manipulating HTTP requests and responses,
 making it easier to build sophisticated API clients or web service libraries that abstract away
