@@ -19,9 +19,9 @@ Faraday comes with a lot of features out of the box, such as:
 * Support for uploading files
 * And much more!
 
-## Who uses Faraday?
+## چه کتابخانه‌هایی(gem) از فارادی استفاده می‌کنند؟
 
-Faraday is used by many popular Ruby libraries, such as:
+فارادی در کتابخانه های محبوب زیر استفاده می‌شود:
 * [Signet](https://github.com/googleapis/signet)
 * [Octokit](https://github.com/octokit/octokit.rb)
 * [Oauth2](https://bestgems.org/gems/oauth2)
